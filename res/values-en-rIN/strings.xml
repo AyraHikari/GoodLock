@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sesl_action_bar_up_description">Navigate up</string>
+    <string name="sesl_action_menu_overflow_description">More options</string>
+    <string name="sesl_action_bar_home_description">Navigate home</string>
+    <string name="sesl_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="sesl_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="sesl_action_mode_done">Done</string>
+    <string name="sesl_activity_chooser_view_see_all">See all</string>
+    <string name="sesl_activitychooserview_choose_application">Choose an app</string>
+    <string name="sesl_capital_off">OFF</string>
+    <string name="sesl_capital_on">ON</string>
+    <string name="sesl_shareactionprovider_share_with">Share with</string>
+    <string name="sesl_toolbar_collapse_description">Collapse</string>
+    <string name="sesl_shareactionprovider_share_with_application">Share with %s</string>
+</resources>

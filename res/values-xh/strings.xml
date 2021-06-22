@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sesl_action_menu_overflow_description">More options</string>
+    <string name="sesl_color_picker_brightness">Brightness</string>
+    <string name="sesl_color_picker_color_five">Color five</string>
+    <string name="sesl_color_picker_color_four">Color four</string>
+    <string name="sesl_color_picker_color_one">Color one</string>
+    <string name="sesl_color_picker_color_six">Color six</string>
+    <string name="sesl_color_picker_color_three">Color three</string>
+    <string name="sesl_color_picker_color_two">Color two</string>
+    <string name="sesl_color_picker_color_wheel">Color wheel</string>
+    <string name="sesl_color_picker_current">Current</string>
+    <string name="sesl_color_picker_double_tap_to_select">Double tap to select.</string>
+    <string name="sesl_color_picker_hue_and_saturation">Hue and saturation</string>
+    <string name="sesl_color_picker_new">New</string>
+    <string name="sesl_color_picker_opacity">Opacity</string>
+    <string name="sesl_color_picker_option">Option</string>
+    <string name="sesl_color_picker_slider">Slider</string>
+    <string name="sesl_date_picker_day">Day</string>
+    <string name="sesl_date_picker_decrement_month">Previous month</string>
+    <string name="sesl_date_picker_increment_month">Next month</string>
+    <string name="sesl_date_picker_month">Month</string>
+    <string name="sesl_date_picker_switch_to_calendar_description">Double tap to switch to calendar view.</string>
+    <string name="sesl_date_picker_switch_to_wheel_description">Double tap to switch to wheel view.</string>
+    <string name="sesl_date_picker_year">Year</string>
+    <string name="sesl_number_picker_invalid_value_entered">Ixabiso elingekho semthethweni lifakiwe.</string>
+    <string name="sesl_picker_done">Gqibile</string>
+    <string name="sesl_time_picker_hour">Iyure</string>
+    <string name="sesl_time_picker_minute">Umzuzu</string>
+    <string name="sesl_time_picker_set_title">Set time</string>
+</resources>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="dragndroplist_drag_release">项目已拖放到位置 %d。</string>
+    <string name="dragndroplist_drag_start">已开始拖动位置 %d 的项目。</string>
+    <string name="dragndroplist_item_cannot_be_dragged">位置 %d 的项目不可拖动。</string>
+    <string name="sesl_action_bar_up_description">向上浏览</string>
+    <string name="sesl_action_menu_overflow_badge_description">有新内容可用</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">新</string>
+    <string name="sesl_action_menu_overflow_description">更多选项</string>
+    <string name="sesl_color_picker_brightness">亮度</string>
+    <string name="sesl_color_picker_color_five">颜色五</string>
+    <string name="sesl_color_picker_color_four">颜色四</string>
+    <string name="sesl_color_picker_color_one">颜色一</string>
+    <string name="sesl_color_picker_color_six">颜色六</string>
+    <string name="sesl_color_picker_color_three">颜色三</string>
+    <string name="sesl_color_picker_color_two">颜色二</string>
+    <string name="sesl_color_picker_color_wheel">色轮</string>
+    <string name="sesl_color_picker_current">当前</string>
+    <string name="sesl_color_picker_double_tap_to_select">请双击来选择。</string>
+    <string name="sesl_color_picker_hue_and_saturation">色调和饱和度</string>
+    <string name="sesl_color_picker_new">新</string>
+    <string name="sesl_color_picker_opacity">不透明度</string>
+    <string name="sesl_color_picker_option">选项</string>
+    <string name="sesl_color_picker_slider">滑块</string>
+    <string name="sesl_date_picker_day">日</string>
+    <string name="sesl_date_picker_decrement_month">上个月</string>
+    <string name="sesl_date_picker_increment_month">下个月</string>
+    <string name="sesl_date_picker_month">月</string>
+    <string name="sesl_date_picker_switch_to_calendar_description">双击可切换至日历视图。</string>
+    <string name="sesl_date_picker_switch_to_wheel_description">双击可切换至滚轮视图。</string>
+    <string name="sesl_date_picker_year">年</string>
+    <string name="sesl_number_picker_invalid_value_entered">输入的数值无效</string>
+    <string name="sesl_picker_done">完成</string>
+    <string name="sesl_preferencecategory_added_title">标题</string>
+    <string name="sesl_search_hint">搜索</string>
+    <string name="sesl_searchview_description_clear">清除搜索栏</string>
+    <string name="sesl_searchview_description_query">搜索询问</string>
+    <string name="sesl_searchview_description_search">搜索</string>
+    <string name="sesl_searchview_description_submit">提交询问</string>
+    <string name="sesl_searchview_description_voice">语音搜索</string>
+    <string name="sesl_switch_off">未使用</string>
+    <string name="sesl_switch_on">使用中</string>
+    <string name="sesl_time_picker_hour">小时</string>
+    <string name="sesl_time_picker_minute">分钟</string>
+    <string name="sesl_time_picker_set_title">设置时间</string>
+    <string name="sesl_action_bar_home_description">转到主屏幕</string>
+    <string name="sesl_action_bar_home_description_format">%1$s：%2$s</string>
+    <string name="sesl_action_bar_home_subtitle_description_format">%1$s - %2$s：%3$s</string>
+    <string name="sesl_action_mode_done">完成</string>
+    <string name="sesl_activity_chooser_view_see_all">查看全部</string>
+    <string name="sesl_activitychooserview_choose_application">选择应用</string>
+    <string name="sesl_capital_off">关闭</string>
+    <string name="sesl_capital_on">开启</string>
+    <string name="sesl_shareactionprovider_share_with">分享方式</string>
+    <string name="sesl_toolbar_collapse_description">收起</string>
+    <string name="sesl_search_menu_title">搜索</string>
+    <string name="sesl_shareactionprovider_share_with_application">通过%s分享</string>
+    <string name="about">关于</string>
+    <string name="activate">激活</string>
+    <string name="add_review">添加反馈</string>
+    <string name="add_shortcut">添加到主屏幕</string>
+    <string name="alicia">Alicia</string>
+    <string name="alicia_comment">"你好。我是Alicia C.
+“电话就是你。”使用我们的Good Lock应用程序展示您自己的风格。"</string>
+    <string name="all">全部</string>
+    <string name="allow">允许</string>
+    <string name="allow_connection">是否允许网络连接？</string>
+    <string name="allow_connection_descriptions">"Good Lock 需要使用网络连接才能正常工作。
+
+当您的平板电脑连接至移动网络或 WLAN 时，将在后台传输数据。
+
+如果您允许网络连接，此信息将不再显示。"</string>
+    <string name="app_name">Good Lock</string>
+    <string name="brandon">Brandon</string>
+    <string name="brandon_comment">請表現出極大的興趣並發送良好的反饋！！</string>
+    <string name="cancel">取消</string>
+    <string name="cindy">Cindy</string>
+    <string name="cindy_comment">早上好。 这是辛迪。我爱Good Lock用户。 我们一直以来对您的兴趣和对Good Lock的热爱〜</string>
+    <string name="contact_us">联系我们</string>
+    <string name="deny">拒绝</string>
+    <string name="edit">编辑</string>
+    <string name="family">家族</string>
+    <string name="good_lock_apps">查看功能</string>
+    <string name="installed">已安裝</string>
+    <string name="jin">Jin</string>
+    <string name="jin_comment">我正在努力开发，请多多支持。</string>
+    <string name="joe_comment">"您好，我是Good Lock 的项目经理.
+请大家多多支持。"</string>
+    <string name="need_activate">由于设备内部错误，GoodLock插件服务已被禁用。 您可以通过单击激活按钮再次使用该服务。（我们建议通过Samsung Members报告日志，以查找错误原因。）</string>
+    <string name="need_ocr_service">要使用此功能，需要OCR Service。 您将被带到Galaxy Store下载并安装OCR Service。</string>
+    <string name="network_error_description">发生了网络或服务器错误，请稍后再试。</string>
+    <string name="not_supporting">您所在的区域不提供面向此GoodLock服务在。</string>
+    <string name="ok">确定</string>
+    <string name="open_source_license"><u>开源许可证</u></string>
+    <string name="preparing_update_fota">我们正在准备更新。当您看到有更新可用的标记时，请再试一次。</string>
+    <string name="press_setting_icon">点击项目以停止安装。</string>
+    <string name="promotion_text">想了解%s的开发者吗？请点击我！</string>
+    <string name="recommendation">推荐应用 / Goodlock家族</string>
+    <string name="redesign">重新设计您的盖乐世</string>
+    <string name="sally">Sally</string>
+    <string name="sally_comment">"嗨！我是Sally，Good Lock的负责人。
+请大家多多体验并反馈您的建议。"</string>
+    <string name="select_items">选择项目</string>
+    <string name="terms">계속하려면, <u>이용약관</u>을 읽고 동의해 주세요</string>
+    <string name="terms_short"><u>이용약관</u></string>
+    <string name="thanks_to">"特别感谢
+혜미님 지원님
+Luminant 솜브라 galaxy3813
+블로썸 파란토끼ll종원
+Yeonfeel
+
+由 AyraHikari 修补"</string>
+    <string name="try_again">重试</string>
+    <string name="try_one">尝试一下。</string>
+    <string name="uninstall">卸载</string>
+    <string name="unit">Goodlock家族</string>
+    <string name="unplugged">未连接</string>
+    <string name="update">更新</string>
+    <string name="update_available">有更新可用。</string>
+    <string name="update_needed">因为操作系统升级，有一些应用程序需要更新，运行Good Lock 进行更新。</string>
+    <string name="ys">Young Seon</string>
+    <string name="ys_comment">많은 관심과 피드백 부탁드려요!!</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dragndroplist_drag_release">Item dropped into position %d.</string>
+    <string name="dragndroplist_drag_start">Started dragging the item at position %d.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">Item at position %d cannot be dragged.</string>
+    <string name="sesl_action_bar_up_description">Navigate up</string>
+    <string name="sesl_action_menu_overflow_badge_description">New content available</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">N</string>
+    <string name="sesl_action_menu_overflow_description">More options</string>
+    <string name="sesl_color_picker_brightness">Brightness</string>
+    <string name="sesl_color_picker_color_five">Colour five</string>
+    <string name="sesl_color_picker_color_four">Colour four</string>
+    <string name="sesl_color_picker_color_one">Colour one</string>
+    <string name="sesl_color_picker_color_six">Colour six</string>
+    <string name="sesl_color_picker_color_three">Colour three</string>
+    <string name="sesl_color_picker_color_two">Colour two</string>
+    <string name="sesl_color_picker_color_wheel">Colour wheel</string>
+    <string name="sesl_color_picker_current">Current</string>
+    <string name="sesl_color_picker_double_tap_to_select">Double tap to select.</string>
+    <string name="sesl_color_picker_hue_and_saturation">Hue and saturation</string>
+    <string name="sesl_color_picker_new">New</string>
+    <string name="sesl_color_picker_opacity">Opacity</string>
+    <string name="sesl_color_picker_option">Option</string>
+    <string name="sesl_color_picker_slider">Slider</string>
+    <string name="sesl_date_picker_day">Day</string>
+    <string name="sesl_date_picker_decrement_month">Previous month</string>
+    <string name="sesl_date_picker_increment_month">Next month</string>
+    <string name="sesl_date_picker_month">Month</string>
+    <string name="sesl_date_picker_switch_to_calendar_description">Double tap to switch to calendar view.</string>
+    <string name="sesl_date_picker_switch_to_wheel_description">Double tap to switch to wheel view.</string>
+    <string name="sesl_date_picker_year">Year</string>
+    <string name="sesl_number_picker_invalid_value_entered">Invalid value entered.</string>
+    <string name="sesl_picker_done">Done</string>
+    <string name="sesl_preferencecategory_added_title">Header</string>
+    <string name="sesl_search_hint">Search</string>
+    <string name="sesl_searchview_description_clear">Clear search field</string>
+    <string name="sesl_searchview_description_query">Search query</string>
+    <string name="sesl_searchview_description_search">Search</string>
+    <string name="sesl_searchview_description_submit">Submit query</string>
+    <string name="sesl_searchview_description_voice">Voice search</string>
+    <string name="sesl_switch_off">Off</string>
+    <string name="sesl_switch_on">On</string>
+    <string name="sesl_time_picker_hour">Hour</string>
+    <string name="sesl_time_picker_minute">Minute</string>
+    <string name="sesl_time_picker_set_title">Set time</string>
+</resources>

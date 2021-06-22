@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dragndroplist_drag_release">Elemento soltado en la posición %d.</string>
+    <string name="dragndroplist_drag_start">Se ha comenzado a mover el elemento en la posición %d.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">El elemento en la posición %d no puede moverse.</string>
+    <string name="sesl_action_bar_up_description">Volver</string>
+    <string name="sesl_action_menu_overflow_badge_description">Contenido nuevo disponible</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">N</string>
+    <string name="sesl_action_menu_overflow_description">Más opciones</string>
+    <string name="sesl_color_picker_brightness">Brillo</string>
+    <string name="sesl_color_picker_color_five">Color cinco</string>
+    <string name="sesl_color_picker_color_four">Color cuatro</string>
+    <string name="sesl_color_picker_color_one">Color uno</string>
+    <string name="sesl_color_picker_color_six">Color seis</string>
+    <string name="sesl_color_picker_color_three">Color tres</string>
+    <string name="sesl_color_picker_color_two">Color dos</string>
+    <string name="sesl_color_picker_color_wheel">Rueda de colores</string>
+    <string name="sesl_color_picker_current">Actual</string>
+    <string name="sesl_color_picker_double_tap_to_select">Pulsa dos veces para seleccionar.</string>
+    <string name="sesl_color_picker_hue_and_saturation">Tono y saturación</string>
+    <string name="sesl_color_picker_new">Nueva</string>
+    <string name="sesl_color_picker_opacity">Opacidad</string>
+    <string name="sesl_color_picker_option">Opción</string>
+    <string name="sesl_color_picker_slider">Control deslizante</string>
+    <string name="sesl_date_picker_day">Día</string>
+    <string name="sesl_date_picker_decrement_month">Mes anterior</string>
+    <string name="sesl_date_picker_increment_month">Mes siguiente</string>
+    <string name="sesl_date_picker_month">Mes</string>
+    <string name="sesl_date_picker_switch_to_calendar_description">Pulsa dos veces para cambiar a la vista de calendario.</string>
+    <string name="sesl_date_picker_switch_to_wheel_description">Pulsa dos veces para cambiar a la vista de rueda.</string>
+    <string name="sesl_date_picker_year">Año</string>
+    <string name="sesl_number_picker_invalid_value_entered">Se ha introducido un valor no válido.</string>
+    <string name="sesl_picker_done">Hecho</string>
+    <string name="sesl_preferencecategory_added_title">Encabezado</string>
+    <string name="sesl_search_hint">Buscar</string>
+    <string name="sesl_searchview_description_clear">Borrar campo de búsqueda</string>
+    <string name="sesl_searchview_description_query">Consulta de búsqueda</string>
+    <string name="sesl_searchview_description_search">Buscar</string>
+    <string name="sesl_searchview_description_submit">Enviar consulta</string>
+    <string name="sesl_searchview_description_voice">Búsqueda de voz</string>
+    <string name="sesl_switch_off">Desactivado</string>
+    <string name="sesl_switch_on">Activado</string>
+    <string name="sesl_time_picker_hour">Hora</string>
+    <string name="sesl_time_picker_minute">Minuto</string>
+    <string name="sesl_time_picker_set_title">Configurar hora</string>
+</resources>

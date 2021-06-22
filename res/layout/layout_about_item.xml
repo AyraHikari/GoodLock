@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/dev_image" android:background="@drawable/shape_round_rect_about" android:layout_width="104.0dip" android:layout_height="104.0dip" android:src="@drawable/sally" android:scaleType="fitXY" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="120.0dip">
+        <TextView android:textSize="16.0dip" android:textStyle="normal" android:textColor="@color/colorAboutName" android:id="@id/dev_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="First Name" android:fontFamily="sans-serif" />
+        <TextView android:textSize="13.0dip" android:textStyle="normal" android:textColor="@color/colorAboutComment" android:id="@id/dev_comment" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="5.0dip" android:text="Competently exploit impactful models without magnetic information." android:fontFamily="sans-serif" />
+    </LinearLayout>
+</FrameLayout>

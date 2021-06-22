@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="dragndroplist_drag_release">පිහිටීම %d තුළට අයිතමය අදින ලදී.</string>
+    <string name="dragndroplist_drag_start">පිහිටීම් %d අසල අයිතමය ඇදීම අරඹන ලදී.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">පිහිටීම් %d අයිතමය ඇදිය නොහැක.</string>
+    <string name="sesl_action_bar_up_description">ඉහළට සංචාලනය</string>
+    <string name="sesl_action_menu_overflow_badge_description">නව අන්තර්ගතය ඇත</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">න</string>
+    <string name="sesl_action_menu_overflow_description">තවත් විකල්ප</string>
+    <string name="sesl_color_picker_brightness">දීප්තතාව</string>
+    <string name="sesl_color_picker_color_five">පස්වැනි වර්ණය</string>
+    <string name="sesl_color_picker_color_four">සිව්වැනි වර්ණය</string>
+    <string name="sesl_color_picker_color_one">පළවැනි වර්ණය</string>
+    <string name="sesl_color_picker_color_six">හයවැනි වර්ණය</string>
+    <string name="sesl_color_picker_color_three">තුන්වැනි වර්ණය</string>
+    <string name="sesl_color_picker_color_two">දෙවැනි වර්ණය</string>
+    <string name="sesl_color_picker_color_wheel">වර්ණ රෝදය</string>
+    <string name="sesl_color_picker_current">පවත්නා</string>
+    <string name="sesl_color_picker_double_tap_to_select">තේරීමට දෙවරක් තට්ටු කරන්න.</string>
+    <string name="sesl_color_picker_hue_and_saturation">පැහැය සහ සන්තෘප්තිය</string>
+    <string name="sesl_color_picker_new">අලුත්</string>
+    <string name="sesl_color_picker_opacity">පාරාන්ධතාව</string>
+    <string name="sesl_color_picker_option">විකල්පය</string>
+    <string name="sesl_color_picker_slider">රූටනය</string>
+    <string name="sesl_date_picker_day">දිනය</string>
+    <string name="sesl_date_picker_decrement_month">පෙර මාසය</string>
+    <string name="sesl_date_picker_increment_month">ඊළඟ මාසය</string>
+    <string name="sesl_date_picker_month">මාසය</string>
+    <string name="sesl_date_picker_switch_to_calendar_description">දින දසුනට මාරු වීමට දෙවරක් තට්ටු කරන්න.</string>
+    <string name="sesl_date_picker_switch_to_wheel_description">චක්‍ර දසුනට මාරු වීමට දෙවරක් තට්ටු කරන්න.</string>
+    <string name="sesl_date_picker_year">වර්ෂය</string>
+    <string name="sesl_number_picker_invalid_value_entered">වලංගු නොවූ අගය ඇතුළු කරන ලදී</string>
+    <string name="sesl_picker_done">නිමයි</string>
+    <string name="sesl_preferencecategory_added_title">ශීර්ෂකය</string>
+    <string name="sesl_search_hint">සොයන්න</string>
+    <string name="sesl_searchview_description_clear">සෙවුම් ක්ෂේත්‍රය හිස් කරන්න</string>
+    <string name="sesl_searchview_description_query">සෙවීම් විමසුම</string>
+    <string name="sesl_searchview_description_search">සොයන්න</string>
+    <string name="sesl_searchview_description_submit">විමසුම ඉදිරිපත් කරන්න</string>
+    <string name="sesl_searchview_description_voice">කටහඬින් සෙවුම</string>
+    <string name="sesl_switch_off">ක්‍රියා විරහිතයි</string>
+    <string name="sesl_switch_on">ක්‍රියාත්මකයි</string>
+    <string name="sesl_time_picker_hour">පැය</string>
+    <string name="sesl_time_picker_minute">විනාඩිය</string>
+    <string name="sesl_time_picker_set_title">වේලාව සකසන්න</string>
+</resources>

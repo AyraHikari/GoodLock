@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAboutBg">#ff080808</color>
+    <color name="colorAboutComment">#ff9b9b9b</color>
+    <color name="colorAboutName">#fffafafa</color>
+    <color name="colorAboutTitle">#fffafafa</color>
+    <color name="colorAccent">#ff737373</color>
+    <color name="colorBg">#ff080808</color>
+    <color name="colorBgAbout">#fff9f9f9</color>
+    <color name="colorContent">#ff252525</color>
+    <color name="colorIntro">#fffafafa</color>
+    <color name="colorListItemBg">#ff303030</color>
+    <color name="colorPrimary">#ff0381f2</color>
+    <color name="colorPrimaryDark">#ff3e91ff</color>
+    <color name="colorStoreBg">#ff303030</color>
+    <color name="colorStroke">#ff525252</color>
+    <color name="colorSubTitle">#ff9b9b9b</color>
+    <color name="colorTabSelectedIcon">#ff1d65ff</color>
+    <color name="colorTabSelectedText">#ff1d65ff</color>
+    <color name="colorTabUnSelectedIcon">#ffc3c3c3</color>
+    <color name="colorTabUnSelectedText">#fffafafa</color>
+    <color name="colorTermsBg">#ff080808</color>
+    <color name="colorTermsButtonText">#fffafafa</color>
+    <color name="colorTermsSubTitle">#ff9b9b9b</color>
+    <color name="colorTermsTitle">#fffafafa</color>
+    <color name="colorTitle">#fffafafa</color>
+    <color name="red">#ffff0000</color>
+</resources>

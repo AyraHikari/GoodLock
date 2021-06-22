@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" package="com.samsung.android.goodlock" platformBuildVersionCode="28" platformBuildVersionName="9">
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+    <uses-permission android:name="com.samsung.systemui.permission.SPLUGIN"/>
+    <uses-permission android:name="com.sec.spp.permission.TOKEN_2c815a762c1223ad42b3c9ff69d3774648ec362ceb7ab4baf4845f7e1819e680b862cf88719072bf82e2716dde58bd9312a85c664fa484ab173c6fc01aaa8841a5c7ad0b48576a4331fa4c4601a26ab4d7ffff09db4f8292002fc89fc17523d93b10c11daf0a50209508866e8dd03e75f22f0c3387a79cf75f6e455ec9799236"/>
+    <uses-permission android:name="com.samsung.android.launcher.permission.READ_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <application android:allowBackup="false" android:icon="@mipmap/goodlock_icon" android:label="@string/app_name" android:name="com.samsung.android.goodlock.GoodLock" android:supportsRtl="true" android:theme="@style/Theme.AppCompat.DayNight" android:usesCleartextTraffic="true">
+        <activity android:name="com.samsung.android.goodlock.presentation.view.LaunchActivity" android:screenOrientation="unspecified" android:theme="@android:style/Theme.NoDisplay">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.samsung.android.goodlock.presentation.view.PluginListActivity" android:screenOrientation="unspecified" android:theme="@style/LightStatusApp"/>
+        <activity android:name="com.samsung.android.goodlock.presentation.view.AboutActivity" android:screenOrientation="unspecified" android:theme="@style/LightStatusApp"/>
+        <activity android:name="com.samsung.android.goodlock.presentation.view.TermsActivity" android:screenOrientation="unspecified" android:theme="@style/LightStatusApp"/>
+        <activity android:name="com.samsung.android.goodlock.presentation.view.TipsActivity" android:screenOrientation="portrait" android:theme="@style/LightStatusApp"/>
+        <meta-data android:name="SamsungBasicInteraction" android:value="SEP10"/>
+        <meta-data android:name="com.samsung.android.multiuser.install_only_owner" android:value="true"/>
+        <provider android:authorities="com.samsung.android.goodlock.analyticsprovider" android:exported="true" android:name="com.samsung.android.goodlock.service.provider.AnalyticsProvider"/>
+        <provider android:authorities="com.samsung.android.goodlock.splugineventprovider" android:exported="true" android:name="com.samsung.android.goodlock.service.provider.SPluginEventProvider"/>
+        <receiver android:name="com.samsung.android.goodlock.PackageListener">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_FULLY_REMOVED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.goodlock.MyPackageReplacedListener">
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+        </receiver>
+        <meta-data android:name="android.support.VERSION" android:value="26.0.1"/>
+        <meta-data android:name="SPDE.build.signature" android:value="unknown/unofficial/release/none"/>
+        <meta-data android:name="SPDE.env.version" android:value="2.3.3/G26.1.15/26.1.3"/>
+    </application>
+</manifest>

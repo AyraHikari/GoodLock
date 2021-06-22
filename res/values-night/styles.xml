@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Appbar.Overflow" parent="@style/Theme.AppCompat.DayNight">
+        <item name="android:actionOverflowButtonStyle">@style/OverflowButton</item>
+    </style>
+    <style name="CollapsingToolbar" parent="@style/Widget.Design.CollapsingToolbar" />
+    <style name="LightStatusApp" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:statusBarColor">#ff080808</item>
+        <item name="android:navigationBarColor">#ff080808</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="LightStatusAppWhite" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:statusBarColor">#ff080808</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="OverflowButton" parent="@style/Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:background">?android:actionBarItemBackground</item>
+        <item name="android:src">@drawable/sesl_ic_menu_overflow</item>
+        <item name="android:minWidth">@dimen/sesl_action_button_min_width_overflow</item>
+        <item name="android:minHeight">?android:actionBarSize</item>
+        <item name="android:contentDescription">@string/sesl_action_menu_overflow_description</item>
+        <item name="android:paddingStart">@dimen/sesl_action_bar_overflow_padding_start</item>
+        <item name="android:paddingEnd">@dimen/sesl_action_bar_overflow_padding_end</item>
+    </style>
+    <style name="Theme.AppCompat.DayNight" parent="@style/Theme.AppCompat" />
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="@style/Theme.AppCompat" />
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="@style/Theme.AppCompat.Dialog" />
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="@style/Theme.AppCompat.Dialog.Alert" />
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="@style/Theme.AppCompat.Dialog.MinWidth" />
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="@style/Theme.AppCompat.DialogWhenLarge" />
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="@style/Theme.AppCompat.NoActionBar" />
+    <style name="Theme.AppCompat.DayNight.PickerDialog.DatePicker" parent="@style/Theme.AppCompat.PickerDialog.DatePicker" />
+    <style name="Theme.AppCompat.DayNight.PickerDialog.TimePicker" parent="@style/Theme.AppCompat.PickerDialog.TimePicker" />
+</resources>

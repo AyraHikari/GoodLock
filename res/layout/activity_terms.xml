@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/colorTermsBg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/terms_top_margin" android:layout_marginHorizontal="20.0dip">
+        <TextView android:textSize="36.0dip" android:textColor="@color/colorTermsTitle" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Good Lock\n 사용을 환영해요" />
+        <TextView android:textSize="14.0dip" android:textColor="@color/colorTermsSubTitle" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="단말의 잠금화면, 퀵패널 등의 주요 기능을 기호에 맞게 변경할 수 있어요" />
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="bottom|center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="24.0dip">
+        <FrameLayout android:layout_gravity="center_horizontal" android:id="@id/terms" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10.0dip">
+            <TextView android:textSize="14.0sp" android:textColor="@color/colorTermsSubTitle" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/terms" />
+        </FrameLayout>
+        <FrameLayout android:layout_gravity="center_horizontal" android:id="@id/agree" android:background="@drawable/shape_round_rect_blue" android:clickable="true" android:layout_width="180.0dip" android:layout_height="44.0dip" android:layout_marginTop="10.0dip">
+            <FrameLayout android:background="?android:selectableItemBackgroundBorderless" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <TextView android:textSize="17.0dip" android:textColor="@color/colorTermsButtonText" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="동의" />
+            </FrameLayout>
+        </FrameLayout>
+    </LinearLayout>
+</FrameLayout>

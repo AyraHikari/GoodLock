@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="dragndroplist_drag_release">Item dropped into position %d.</string>
+    <string name="dragndroplist_drag_start">Started dragging item at position %d.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">Item at position %d cannot be dragged.</string>
+    <string name="sesl_action_bar_up_description">Navigate up</string>
+    <string name="sesl_action_menu_overflow_badge_description">New content available</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">N</string>
+    <string name="sesl_action_menu_overflow_description">More options</string>
+    <string name="sesl_color_picker_brightness">Brightness</string>
+    <string name="sesl_color_picker_color_five">Color Five</string>
+    <string name="sesl_color_picker_color_four">Color Four</string>
+    <string name="sesl_color_picker_color_one">Color One</string>
+    <string name="sesl_color_picker_color_six">Color Six</string>
+    <string name="sesl_color_picker_color_three">Color Three</string>
+    <string name="sesl_color_picker_color_two">Color Two</string>
+    <string name="sesl_color_picker_color_wheel">Color wheel</string>
+    <string name="sesl_color_picker_current">Current</string>
+    <string name="sesl_color_picker_double_tap_to_select">Double tap to select.</string>
+    <string name="sesl_color_picker_hue_and_saturation">Hue and saturation</string>
+    <string name="sesl_color_picker_new">New</string>
+    <string name="sesl_color_picker_opacity">Opacity</string>
+    <string name="sesl_color_picker_option">Option</string>
+    <string name="sesl_color_picker_slider">Slider</string>
+    <string name="sesl_date_picker_day">Day</string>
+    <string name="sesl_date_picker_decrement_month">Decrease month</string>
+    <string name="sesl_date_picker_increment_month">Increase month</string>
+    <string name="sesl_date_picker_month">Month</string>
+    <string name="sesl_date_picker_switch_to_calendar_description">Double tap to switch to calendar view.</string>
+    <string name="sesl_date_picker_switch_to_wheel_description">Double tap to switch to wheel view.</string>
+    <string name="sesl_date_picker_year">Year</string>
+    <string name="sesl_number_picker_invalid_value_entered">Invalid value entered.</string>
+    <string name="sesl_picker_done">Done</string>
+    <string name="sesl_preferencecategory_added_title">Header</string>
+    <string name="sesl_search_hint">Search…</string>
+    <string name="sesl_searchview_description_clear">Clear search field</string>
+    <string name="sesl_searchview_description_query">Search query</string>
+    <string name="sesl_searchview_description_search">Search</string>
+    <string name="sesl_searchview_description_submit">Submit query</string>
+    <string name="sesl_searchview_description_voice">Voice search</string>
+    <string name="sesl_switch_off">Off</string>
+    <string name="sesl_switch_on">On</string>
+    <string name="sesl_time_picker_hour">Hour</string>
+    <string name="sesl_time_picker_minute">Minute</string>
+    <string name="sesl_time_picker_set_title">Set Time</string>
+    <string name="sesl_action_bar_home_description">Navigate home</string>
+    <string name="sesl_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="sesl_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="sesl_action_mode_done">Done</string>
+    <string name="sesl_activity_chooser_view_see_all">See all</string>
+    <string name="sesl_activitychooserview_choose_application">Choose an app</string>
+    <string name="sesl_capital_off">OFF</string>
+    <string name="sesl_capital_on">ON</string>
+    <string name="sesl_shareactionprovider_share_with">Share with</string>
+    <string name="sesl_toolbar_collapse_description">Collapse</string>
+    <string name="sesl_search_menu_title">Search</string>
+    <string name="sesl_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="about">About</string>
+    <string name="activate">Activate</string>
+    <string name="add_review">Write a review</string>
+    <string name="add_shortcut">Add to Home screen</string>
+    <string name="alicia">Alicia</string>
+    <string name="alicia_comment">"Hi~ I am Alicia C.
+Your phone is you. Show your own style through our Goodlock app."</string>
+    <string name="all">All</string>
+    <string name="allow">Allow</string>
+    <string name="allow_connection">Allow network connections?</string>
+    <string name="allow_connection_descriptions">"Good Lock needs to use a network connection to work normally.
+
+Data will be transferred in the background while your tablet is connected to a mobile network or WLAN.
+
+If you allow a network connection, this message won't be shown again."</string>
+    <string name="app_name">Good Lock</string>
+    <string name="brandon">Brandon</string>
+    <string name="brandon_comment">Goodlock Goodluck</string>
+    <string name="cancel">Cancel</string>
+    <string name="cindy">Cindy</string>
+    <string name="cindy_comment">Hello~ I am Cindy. I love all of you, Good Lock users. I ask for your continued interest and love for Good Lock~</string>
+    <string name="contact_us">Contact us</string>
+    <string name="deny">Deny</string>
+    <string name="edit">Edit</string>
+    <string name="family">Family</string>
+    <string name="good_lock_apps">Learn more about features</string>
+    <string name="installed">"You've got it!"</string>
+    <string name="jin">Jin</string>
+    <string name="jin_comment">"I'm really working on this. Please support Good Lock."</string>
+    <string name="joe_comment">Hello. I am in charge of the TM role. Please enjoy Good Lock.</string>
+    <string name="need_activate">GoodLock plugin service has been disabled due to an internal error of the device. Please press the Activate button, then our service will be available again.(We suggest to report the log via Samsung Members to find the cause of the error.)</string>
+    <string name="need_ocr_service">OCR service is required to use this feature. You will be taken to Galaxy Store to download and install OCR service.</string>
+    <string name="network_error_description">There was a network or server error. Try again later.</string>
+    <string name="not_supporting">"Oops, Good Lock service isn't available in your region."</string>
+    <string name="ok">OK</string>
+    <string name="open_source_license"><u>Open source license</u></string>
+    <string name="preparing_update_fota">"We're preparing update. Try again when you see the update available mark."</string>
+    <string name="press_setting_icon">"Let's try now."</string>
+    <string name="promotion_text">Do you want to know %s developers? Press me.</string>
+    <string name="recommendation">"Recommendation Apps / Goodlock's Family"</string>
+    <string name="redesign">Redesign your Galaxy</string>
+    <string name="sally">Sally</string>
+    <string name="sally_comment">"Hi, I'm Sally who is Good Lock supporter.
+We always welcome your comments and suggestions."</string>
+    <string name="select_items">Select Items</string>
+    <string name="terms">계속하려면, <u>이용약관</u>을 읽고 동의해 주세요</string>
+    <string name="terms_short"><u>이용약관</u></string>
+    <string name="thanks_to">"Special Thanks to
+혜미님 지원님
+Luminant 솜브라 galaxy3813
+블로썸 파란토끼ll종원
+Yeonfeel
+
+Patched by AyraHikari"</string>
+    <string name="try_again">Try again</string>
+    <string name="try_one">Try one thing.</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="unit">Unit</string>
+    <string name="unplugged">unplugged</string>
+    <string name="update">Update</string>
+    <string name="update_available">Update available.</string>
+    <string name="update_needed">There are some apps that needs to be updated since the OS upgrading. Run Good Lock and update.</string>
+    <string name="ys">Young Seon</string>
+    <string name="ys_comment">Please show a lot of interest and send good feedback!!</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="sesl_appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="sesl_bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="sesl_character_counter_pattern">%1$d / %2$d</string>
+    <string name="sesl_font_family_condensed">sec-roboto-condensed</string>
+    <string name="sesl_font_family_regular">sec-roboto-light</string>
+    <string name="sesl_more_item_label">More</string>
+    <string name="sesl_password_toggle_content_description">Toggle password visibility</string>
+    <string name="sesl_path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="sesl_path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="sesl_path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="sesl_path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="sesl_preference_off">OFF</string>
+    <string name="sesl_preference_on">ON</string>
+    <string name="sesl_version_core_utils">10.0.2</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+</resources>

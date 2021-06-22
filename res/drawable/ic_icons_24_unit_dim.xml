@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="17.0dip" android:width="17.0dip" android:viewportWidth="17.0" android:viewportHeight="17.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/colorTabUnSelectedIcon" android:pathData="M14.167,0C15.73,0 17,1.269 17,2.833v11.334C17,15.73 15.731,17 14.167,17L2.8,17C1.254,17 0,15.746 0,14.2L0,2.8C0,1.254 1.254,0 2.8,0zM14.167,1.417L8.5,1.417v5.21c0.518,-0.589 1.278,-0.96 2.125,-0.96 1.565,0 2.833,1.268 2.833,2.833 0,1.565 -1.268,2.833 -2.833,2.833 -0.847,0 -1.607,-0.371 -2.126,-0.96l0.001,5.21h5.667l0.105,-0.004c0.733,-0.054 1.311,-0.665 1.311,-1.412L15.583,2.833l-0.004,-0.105c-0.054,-0.733 -0.665,-1.311 -1.412,-1.311z" android:fillType="evenOdd" />
+</vector>

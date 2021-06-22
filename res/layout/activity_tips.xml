@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/main_view" android:tag="layout/activity_tips_0" android:paddingTop="24.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/action_bar_back" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="wrap_content" android:layout_height="48.0dip" android:minWidth="200.0dip">
+        <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:src="@drawable/ic_tw_ic_ab_back_mtrl2" />
+        <TextView android:textSize="17.0sp" android:textStyle="bold" android:textColor="#ff000000" android:ellipsize="end" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:text="@string/good_lock_apps" android:maxLines="1" android:textAllCaps="true" android:fontFamily="sec-roboto-condensed" />
+    </LinearLayout>
+    <WebView android:id="@id/web_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="48.0dip" />
+</FrameLayout>

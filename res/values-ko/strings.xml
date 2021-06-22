@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="dragndroplist_drag_release">항목을 %d번 위치로 이동했습니다.</string>
+    <string name="dragndroplist_drag_start">%d 위치에 있는 항목을 이동하기 시작했습니다.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">%d번 위치에 있는 항목은 이동할 수 없습니다.</string>
+    <string name="sesl_action_bar_up_description">상위 메뉴로 이동</string>
+    <string name="sesl_action_menu_overflow_badge_description">새 콘텐츠 사용 가능</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">N</string>
+    <string name="sesl_action_menu_overflow_description">옵션 더보기</string>
+    <string name="sesl_color_picker_brightness">명도</string>
+    <string name="sesl_color_picker_color_five">색상 오</string>
+    <string name="sesl_color_picker_color_four">색상 사</string>
+    <string name="sesl_color_picker_color_one">색상 일</string>
+    <string name="sesl_color_picker_color_six">색상 육</string>
+    <string name="sesl_color_picker_color_three">색상 삼</string>
+    <string name="sesl_color_picker_color_two">색상 이</string>
+    <string name="sesl_color_picker_color_wheel">원형 색상표</string>
+    <string name="sesl_color_picker_current">현재 색</string>
+    <string name="sesl_color_picker_double_tap_to_select">선택하려면 두 번 누르세요.</string>
+    <string name="sesl_color_picker_hue_and_saturation">색조 및 채도</string>
+    <string name="sesl_color_picker_new">새로운 색</string>
+    <string name="sesl_color_picker_opacity">불투명도</string>
+    <string name="sesl_color_picker_option">옵션</string>
+    <string name="sesl_color_picker_slider">슬라이더</string>
+    <string name="sesl_date_picker_day">일</string>
+    <string name="sesl_date_picker_decrement_month">이전 달</string>
+    <string name="sesl_date_picker_increment_month">다음 달</string>
+    <string name="sesl_date_picker_month">월</string>
+    <string name="sesl_date_picker_switch_to_calendar_description">캘린더 보기 방식을 변경하려면 두 번 누르세요.</string>
+    <string name="sesl_date_picker_switch_to_wheel_description">넘기기 방식으로 변경하려면 두 번 누르세요.</string>
+    <string name="sesl_date_picker_year">연도</string>
+    <string name="sesl_number_picker_invalid_value_entered">입력한 값이 바르지 않습니다.</string>
+    <string name="sesl_picker_done">완료</string>
+    <string name="sesl_preferencecategory_added_title">머리글</string>
+    <string name="sesl_search_hint">검색</string>
+    <string name="sesl_searchview_description_clear">검색창 지우기</string>
+    <string name="sesl_searchview_description_query">쿼리 검색</string>
+    <string name="sesl_searchview_description_search">검색</string>
+    <string name="sesl_searchview_description_submit">쿼리 전송</string>
+    <string name="sesl_searchview_description_voice">음성 검색</string>
+    <string name="sesl_switch_off">사용 안 함</string>
+    <string name="sesl_switch_on">사용 중</string>
+    <string name="sesl_time_picker_hour">시간</string>
+    <string name="sesl_time_picker_minute">분</string>
+    <string name="sesl_time_picker_set_title">시간 설정</string>
+    <string name="sesl_action_bar_home_description">홈 탐색</string>
+    <string name="sesl_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="sesl_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="sesl_action_mode_done">완료</string>
+    <string name="sesl_activity_chooser_view_see_all">전체 보기</string>
+    <string name="sesl_activitychooserview_choose_application">앱 선택</string>
+    <string name="sesl_capital_off">사용 안함</string>
+    <string name="sesl_capital_on">사용</string>
+    <string name="sesl_shareactionprovider_share_with">공유 대상</string>
+    <string name="sesl_toolbar_collapse_description">접기</string>
+    <string name="sesl_search_menu_title">검색</string>
+    <string name="sesl_shareactionprovider_share_with_application">%s와(과) 공유</string>
+    <string name="about">정보</string>
+    <string name="activate">활성화</string>
+    <string name="add_review">앱 평가하기</string>
+    <string name="add_shortcut">홈 화면에 바로가기 추가</string>
+    <string name="alicia">Alicia</string>
+    <string name="alicia_comment">"안녕하세요~ Alicia 입니다.
+'폰은 당신입니다.'. 굿락을 통해 본인만의 멋을 보여주세요."</string>
+    <string name="all">전체</string>
+    <string name="allow">허용</string>
+    <string name="allow_connection">네트워크 연결 허용</string>
+    <string name="allow_connection_descriptions">"Good Lock 앱이 제대로 작동하려면 네트워크 연결을 사용해야 합니다.
+
+태블릿이 모바일 네트워크 또는 WLAN에 연결되어 있을 때 백그라운드에서 데이터를 전송합니다.
+
+네트워크 연결을 허용하면 이 메시지가 다시 표시되지 않습니다."</string>
+    <string name="app_name">Good Lock</string>
+    <string name="brandon">Brandon</string>
+    <string name="brandon_comment">Goodlock Goodluck</string>
+    <string name="cancel">취소</string>
+    <string name="cindy">Cindy</string>
+    <string name="cindy_comment">안녕하세요. Cindy입니다. 굿락 사용자분들 사랑합니다. 지속적인 관심과 사랑 부탁드려요~</string>
+    <string name="contact_us">문의하기</string>
+    <string name="deny">허용 안 함</string>
+    <string name="edit">편집</string>
+    <string name="family">Family</string>
+    <string name="good_lock_apps">기능 알아보기</string>
+    <string name="installed">"You've got it!"</string>
+    <string name="jin">Jin</string>
+    <string name="jin_comment">열심히 개발하고 있습니다. 많은 응원 부탁 드려요.</string>
+    <string name="joe_comment">"안녕하세요.
+Good Lock의 TM 조군입니다.
+많이들 사랑해주세요."</string>
+    <string name="need_activate">GoodLock 플러그인 서비스가 디바이스의 내부 오류로 인해 비활성화 되었어요. 서비스를 다시 이용하기 위해서 활성화 버튼을 눌러주세요.(자세한 원인 분석을 위해서는 삼성 멤버스를 통해 이슈리포트 부탁드립니다.)</string>
+    <string name="need_ocr_service">이 기능을 사용하려면 OCR Service 앱이 필요합니다. OCR Service 앱을 다운로드하여 설치할 수 있도록 Galaxy Store로 이동합니다.</string>
+    <string name="network_error_description">네트워크 또는 서버에 오류가 발생했습니다. 나중에 다시 시도해 보세요.</string>
+    <string name="not_supporting">현재 고객이 계신 지역은 Good Lock 서비스 이용이 불가능합니다.</string>
+    <string name="ok">확인</string>
+    <string name="open_source_license"><u>오픈소스 라이선스</u></string>
+    <string name="preparing_update_fota">OS 업데이트를 위해 업데이트 버전 준비 중입니다. 업데이트 표시 후 다시 시도해 보세요.</string>
+    <string name="press_setting_icon">"Let's try now."</string>
+    <string name="promotion_text">여기를 눌러 %s 개발팀을 알아보세요.</string>
+    <string name="recommendation">"추천 앱스 / Goodlock's Family"</string>
+    <string name="redesign">Redesign your Galaxy</string>
+    <string name="sally">Sally</string>
+    <string name="sally_comment">"안녕하세요. 샐리입니다.
+굿락의 든든한 서포터를 맡고 있습니다.
+많은 사랑과 피드백 부탁 드려요 ^^"</string>
+    <string name="select_items">항목 선택</string>
+    <string name="terms">계속하려면, <u>이용약관</u>을 읽고 동의해 주세요</string>
+    <string name="terms_short"><u>이용약관</u></string>
+    <string name="thanks_to">"Special Thanks to
+혜미님 지원님
+Luminant 솜브라 galaxy3813
+ 블로썸 파란토끼ll종원
+Yeonfeel
+
+AyraHikari에 의해 패치"</string>
+    <string name="try_again">다시 시도</string>
+    <string name="try_one">한번 설치해 보세요.</string>
+    <string name="uninstall">설치 삭제</string>
+    <string name="unit">Unit</string>
+    <string name="unplugged">unplugged</string>
+    <string name="update">업데이트</string>
+    <string name="update_available">업데이트가 있습니다.</string>
+    <string name="update_needed">OS 호환성으로 인해 업데이트가 필요한 앱이 있습니다. Good Lock을 실행하여 업데이트하세요.</string>
+    <string name="ys">Young Seon</string>
+    <string name="ys_comment">많은 관심과 피드백 부탁드려요!!</string>
+</resources>

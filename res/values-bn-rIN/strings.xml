@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dragndroplist_drag_release">%d অবস্থানে আইটেম ছাড়া হয়েছে।</string>
+    <string name="dragndroplist_drag_start">%d অবস্থানে আইটেম টানা শুরু হয়েছে।</string>
+    <string name="dragndroplist_item_cannot_be_dragged">%d অবস্থানে আইটেম টেনে আনা যাবে না।</string>
+    <string name="sesl_action_bar_up_description">উপরে নেভিগেট করুন</string>
+    <string name="sesl_action_menu_overflow_badge_description">নতুন সামগ্রী সুলভ</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">ন</string>
+    <string name="sesl_action_menu_overflow_description">আরও বিকল্প</string>
+    <string name="sesl_color_picker_brightness">উজ্জ্বলতা</string>
+    <string name="sesl_color_picker_color_five">পাঁচ নম্বরের রঙ</string>
+    <string name="sesl_color_picker_color_four">চার নম্বরের রঙ</string>
+    <string name="sesl_color_picker_color_one">এক নম্বরের রঙ</string>
+    <string name="sesl_color_picker_color_six">ছয় নম্বরের রঙ</string>
+    <string name="sesl_color_picker_color_three">তিন নম্বরের রঙ</string>
+    <string name="sesl_color_picker_color_two">দুই নম্বরের রঙ</string>
+    <string name="sesl_color_picker_color_wheel">রঙের চাকা</string>
+    <string name="sesl_color_picker_current">বর্তমান</string>
+    <string name="sesl_color_picker_double_tap_to_select">নির্বাচন করতে দুবার ট্যাপ করুন।</string>
+    <string name="sesl_color_picker_hue_and_saturation">রঙ ও স্যাচুরেশন</string>
+    <string name="sesl_color_picker_new">নতুন</string>
+    <string name="sesl_color_picker_opacity">অস্বচ্ছতা</string>
+    <string name="sesl_color_picker_option">বিকল্প</string>
+    <string name="sesl_color_picker_slider">স্লাইডার</string>
+    <string name="sesl_date_picker_day">দিন</string>
+    <string name="sesl_date_picker_decrement_month">আগের মাস</string>
+    <string name="sesl_date_picker_increment_month">পরের মাস</string>
+    <string name="sesl_date_picker_month">মাস</string>
+    <string name="sesl_date_picker_switch_to_calendar_description">ক্যালেন্ডার দৃশ্যে স্যুইচ করতে দুবার ট্যাপ করুন।</string>
+    <string name="sesl_date_picker_switch_to_wheel_description">চাকা দৃশ্যে স্যুইচ করতে দুবার ট্যাপ করুন।</string>
+    <string name="sesl_date_picker_year">বছর</string>
+    <string name="sesl_number_picker_invalid_value_entered">অবৈধ মান লেখা হয়েছে</string>
+    <string name="sesl_picker_done">সম্পন্ন</string>
+    <string name="sesl_preferencecategory_added_title">শিরোলেখ</string>
+    <string name="sesl_search_hint">অনুসন্ধান করুন</string>
+    <string name="sesl_searchview_description_clear">অনুসন্ধান ক্ষেত্র পরিষ্কার করুন</string>
+    <string name="sesl_searchview_description_query">সন্ধান কোয়্যারি</string>
+    <string name="sesl_searchview_description_search">অনুসন্ধান করুন</string>
+    <string name="sesl_searchview_description_submit">প্রশ্ন দাখিল</string>
+    <string name="sesl_searchview_description_voice">ভয়েস অনুসন্ধান</string>
+    <string name="sesl_switch_off">বন্ধ</string>
+    <string name="sesl_switch_on">চালু</string>
+    <string name="sesl_time_picker_hour">ঘন্টা</string>
+    <string name="sesl_time_picker_minute">মিনিট</string>
+    <string name="sesl_time_picker_set_title">সময় সেট করুন</string>
+</resources>

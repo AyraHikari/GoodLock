@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dragndroplist_drag_release">Madda %d orna oklandy.</string>
+    <string name="dragndroplist_drag_start">%d orundaky maddanyň süýşürilmegi başlandy.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">%d orundaky maddany tutup süýşürip bolmaýar.</string>
+    <string name="sesl_action_bar_up_description">Ýokaryk git</string>
+    <string name="sesl_action_menu_overflow_badge_description">Täze material elýeterli</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">T</string>
+    <string name="sesl_action_menu_overflow_description">Goşmaça opsiýalar</string>
+    <string name="sesl_color_picker_brightness">Ýagtylyk</string>
+    <string name="sesl_color_picker_color_five">Reňk bäş</string>
+    <string name="sesl_color_picker_color_four">Reňk dört</string>
+    <string name="sesl_color_picker_color_one">Reňk bir</string>
+    <string name="sesl_color_picker_color_six">Reňk alty</string>
+    <string name="sesl_color_picker_color_three">Reňk üç</string>
+    <string name="sesl_color_picker_color_two">Reňk iki</string>
+    <string name="sesl_color_picker_color_wheel">Reňk çarh</string>
+    <string name="sesl_color_picker_current">Häzirki</string>
+    <string name="sesl_color_picker_double_tap_to_select">Saýlamak üçin, iki gezek basyň.</string>
+    <string name="sesl_color_picker_hue_and_saturation">Röwüş we doýgunlyk</string>
+    <string name="sesl_color_picker_new">Täze</string>
+    <string name="sesl_color_picker_opacity">Tutuklyk</string>
+    <string name="sesl_color_picker_option">Opsiýa</string>
+    <string name="sesl_color_picker_slider">Slaýder</string>
+    <string name="sesl_date_picker_day">Gün</string>
+    <string name="sesl_date_picker_decrement_month">Öňki aý</string>
+    <string name="sesl_date_picker_increment_month">Indiki aý</string>
+    <string name="sesl_date_picker_month">Aý</string>
+    <string name="sesl_date_picker_switch_to_calendar_description">Senenama görnüşine geçmek üçin, iki gezek basyň.</string>
+    <string name="sesl_date_picker_switch_to_wheel_description">Çarh görnüşine geçmek üçin, iki gezek basyň.</string>
+    <string name="sesl_date_picker_year">Ýyl</string>
+    <string name="sesl_number_picker_invalid_value_entered">Nädogry görkeziji girizildi.</string>
+    <string name="sesl_picker_done">Tamam</string>
+    <string name="sesl_preferencecategory_added_title">Sözbaşy</string>
+    <string name="sesl_search_hint">Gözleg</string>
+    <string name="sesl_searchview_description_clear">Gözleg zolagy öçür</string>
+    <string name="sesl_searchview_description_query">Gözleme talaby</string>
+    <string name="sesl_searchview_description_search">Gözleg</string>
+    <string name="sesl_searchview_description_submit">Tassyklama talaby</string>
+    <string name="sesl_searchview_description_voice">Ses gözleme</string>
+    <string name="sesl_switch_off">Ýapyk</string>
+    <string name="sesl_switch_on">Açyk</string>
+    <string name="sesl_time_picker_hour">Sagat</string>
+    <string name="sesl_time_picker_minute">Minut</string>
+    <string name="sesl_time_picker_set_title">Wagty belle</string>
+</resources>

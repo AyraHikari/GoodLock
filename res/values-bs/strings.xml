@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="dragndroplist_drag_release">Stavka je ispuštena na poziciju %d.</string>
+    <string name="dragndroplist_drag_start">Započeto je prevlačenje stavke na poziciju %d.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">Stavka na poziciji %d se ne može prevući.</string>
+    <string name="sesl_action_bar_up_description">Pomjeraj se nagore</string>
+    <string name="sesl_action_menu_overflow_badge_description">Dostupan je novi sadržaj</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">N</string>
+    <string name="sesl_action_menu_overflow_description">Dodatne opcije</string>
+    <string name="sesl_color_picker_brightness">Osvjetljenje</string>
+    <string name="sesl_color_picker_color_five">Boja pet</string>
+    <string name="sesl_color_picker_color_four">Boja četiri</string>
+    <string name="sesl_color_picker_color_one">Boja jedan</string>
+    <string name="sesl_color_picker_color_six">Boja šest</string>
+    <string name="sesl_color_picker_color_three">Boja tri</string>
+    <string name="sesl_color_picker_color_two">Boja dva</string>
+    <string name="sesl_color_picker_color_wheel">Spektar boja</string>
+    <string name="sesl_color_picker_current">Trenutno</string>
+    <string name="sesl_color_picker_double_tap_to_select">Dvaput dodirnite za izbor.</string>
+    <string name="sesl_color_picker_hue_and_saturation">Nijansa i zasićenost</string>
+    <string name="sesl_color_picker_new">Novo</string>
+    <string name="sesl_color_picker_opacity">Prozirnost</string>
+    <string name="sesl_color_picker_option">Opcija</string>
+    <string name="sesl_color_picker_slider">Klizač</string>
+    <string name="sesl_date_picker_day">Dan</string>
+    <string name="sesl_date_picker_decrement_month">Prethodni mjesec</string>
+    <string name="sesl_date_picker_increment_month">Sljedeći mjesec</string>
+    <string name="sesl_date_picker_month">Mjesec</string>
+    <string name="sesl_date_picker_switch_to_calendar_description">Dvaput dodirnite za prelazak na prikaz kalendara.</string>
+    <string name="sesl_date_picker_switch_to_wheel_description">Dvaput dodirnite za prelazak na prikaz točkića.</string>
+    <string name="sesl_date_picker_year">Godina</string>
+    <string name="sesl_number_picker_invalid_value_entered">Unesena je nevažeća vrijednost.</string>
+    <string name="sesl_picker_done">Gotovo</string>
+    <string name="sesl_preferencecategory_added_title">Header</string>
+    <string name="sesl_search_hint">Pretraživanje</string>
+    <string name="sesl_searchview_description_clear">Obriši polje pretrage</string>
+    <string name="sesl_searchview_description_query">Pretraži upit</string>
+    <string name="sesl_searchview_description_search">Pretraživanje</string>
+    <string name="sesl_searchview_description_submit">Pošalji upit</string>
+    <string name="sesl_searchview_description_voice">Glasovno pretraživanje</string>
+    <string name="sesl_switch_off">Isključeno</string>
+    <string name="sesl_switch_on">Uključeno</string>
+    <string name="sesl_time_picker_hour">Sat</string>
+    <string name="sesl_time_picker_minute">Minut</string>
+    <string name="sesl_time_picker_set_title">Postavi vrijeme</string>
+</resources>

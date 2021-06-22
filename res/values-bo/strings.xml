@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dragndroplist_drag_release">སྡེ་ཚན་གནས་ %d. ལ་བཞག་སོང་།</string>
+    <string name="dragndroplist_drag_start">གནས་ %d ལ་སྡེ་ཚན་སྤོ་འགོ་བཙུགས་སོང་།</string>
+    <string name="dragndroplist_item_cannot_be_dragged">%d ལ་ཡོད་པའི་སྡེ་ཚན་འཐེན་འགུལ་བྱེད་མི་ཐུབ།</string>
+    <string name="sesl_action_bar_up_description">གོང་དུ་ལྟ་ཀློག་བྱེད།</string>
+    <string name="sesl_action_menu_overflow_badge_description">ནང་དོན་གསར་པ་སྤྱོད་ཆོག་པ།</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">N</string>
+    <string name="sesl_action_menu_overflow_description">དེ་བས་མང་བའི་འདེམས་ག།</string>
+    <string name="sesl_color_picker_brightness">གསལ་ཚད།</string>
+    <string name="sesl_color_picker_color_five">མཚོན་ལྔ</string>
+    <string name="sesl_color_picker_color_four">མཚོན་བཞི</string>
+    <string name="sesl_color_picker_color_one">མཚོན་གཅིག</string>
+    <string name="sesl_color_picker_color_six">ཚོན་མདོག་དྲུག་པ།</string>
+    <string name="sesl_color_picker_color_three">མཚོན་གསུམ</string>
+    <string name="sesl_color_picker_color_two">ཚོན་མདོག་གཉིས་པ།</string>
+    <string name="sesl_color_picker_color_wheel">ཚོན་འཁོར།</string>
+    <string name="sesl_color_picker_current">མིག་སྔར།</string>
+    <string name="sesl_color_picker_double_tap_to_select">ཉིས་བརྡེབས་བྱས་ནས་འདེམས་པ།</string>
+    <string name="sesl_color_picker_hue_and_saturation">མདངས་དང་སེ་སྦྱོར།</string>
+    <string name="sesl_color_picker_new">གསར་པ།</string>
+    <string name="sesl_color_picker_opacity">མི་དྭངས་པའི་ཚད།</string>
+    <string name="sesl_color_picker_option">གདམ་འཐུ</string>
+    <string name="sesl_color_picker_slider">འདྲུད་མདའ།</string>
+    <string name="sesl_date_picker_day">ཉིན།</string>
+    <string name="sesl_date_picker_decrement_month">ཟླ་བ་གོང་མ།</string>
+    <string name="sesl_date_picker_increment_month">ཟླ་བ་རྗེས་མ།</string>
+    <string name="sesl_date_picker_month">ཟླ་བ།</string>
+    <string name="sesl_date_picker_switch_to_calendar_description">ཉིས་བརྡེབས་བྱས་ནས་ལོ་ཐོའི་མཐོང་རིས་ལ་སྒྱུར་བ།</string>
+    <string name="sesl_date_picker_switch_to_wheel_description">ཉིས་བརྡེབས་བྱས་ནས་སྒྲིལ་འགུལ་མཐོང་རིས་ལ་སྒྱུར་བ།</string>
+    <string name="sesl_date_picker_year">ལོ།</string>
+    <string name="sesl_number_picker_invalid_value_entered">ནང་འཇུག་བྱས་པའི་གྲངས་ཕན་མེད།</string>
+    <string name="sesl_picker_done">ལས་ཟིན།</string>
+    <string name="sesl_preferencecategory_added_title">ཁ་བྱང་།</string>
+    <string name="sesl_search_hint">འཚོལ་བཤེར།</string>
+    <string name="sesl_searchview_description_clear">འཚོལ་བཤེར་སྡེ་གཙང་སེལ་བྱེད།</string>
+    <string name="sesl_searchview_description_query">བཤེར་འཚོལ་འདྲི་རྩད།</string>
+    <string name="sesl_searchview_description_search">འཚོལ་བཤེར།</string>
+    <string name="sesl_searchview_description_submit">འདྲི་རྩད་འབུལ།</string>
+    <string name="sesl_searchview_description_voice">སྐད་སྒྲ་འཚོལ་བསྡུ།</string>
+    <string name="sesl_switch_off">སྒོ་སྟེམ།</string>
+    <string name="sesl_switch_on">བེད་སྤྱོད་བྱེད་བཞིན་པ་</string>
+    <string name="sesl_time_picker_hour">ཆུ་ཚོད།</string>
+    <string name="sesl_time_picker_minute">སྐར་མ།</string>
+    <string name="sesl_time_picker_set_title">དུས་ཚོད་སྒྲིག་པ།</string>
+</resources>

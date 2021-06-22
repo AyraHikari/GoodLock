@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sesl_action_bar_up_description">Fara upp</string>
+    <string name="sesl_action_menu_overflow_description">Fleiri valkostir</string>
+    <string name="sesl_search_hint">Leita…</string>
+    <string name="sesl_searchview_description_clear">Hreinsa fyrirspurn</string>
+    <string name="sesl_searchview_description_query">Leitarfyrirspurn</string>
+    <string name="sesl_searchview_description_search">Leita</string>
+    <string name="sesl_searchview_description_submit">Senda fyrirspurn</string>
+    <string name="sesl_searchview_description_voice">Raddleit</string>
+    <string name="sesl_action_bar_home_description">Fara heim</string>
+    <string name="sesl_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="sesl_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="sesl_action_mode_done">Lokið</string>
+    <string name="sesl_activity_chooser_view_see_all">Sjá allt</string>
+    <string name="sesl_activitychooserview_choose_application">Veldu forrit</string>
+    <string name="sesl_capital_off">SLÖKKT</string>
+    <string name="sesl_capital_on">KVEIKT</string>
+    <string name="sesl_shareactionprovider_share_with">Deila með</string>
+    <string name="sesl_toolbar_collapse_description">Minnka</string>
+    <string name="sesl_search_menu_title">Leita</string>
+    <string name="sesl_shareactionprovider_share_with_application">Deila með %s</string>
+</resources>

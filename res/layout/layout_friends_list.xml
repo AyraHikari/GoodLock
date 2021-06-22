@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/layout_friends_list_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" android:layout_marginEnd="5.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="#22000000" android:layout_width="fill_parent" android:layout_height="2.0px" />
+    <FrameLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="12.0sp" android:textStyle="bold" android:textColor="#ff555555" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginBottom="15.0dip" android:text="@string/recommendation" android:fontFamily="sec-roboto-condensed" />
+        <ImageView android:layout_gravity="center|right" android:id="@id/view_all" android:layout_width="22.0dip" android:layout_height="22.0dip" android:src="@drawable/ic_right_arrow" />
+    </FrameLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <android.support.v7.widget.RecyclerView android:id="@id/friends_list_view" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </FrameLayout>
+</LinearLayout>

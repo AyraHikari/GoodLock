@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sesl_action_bar_up_description">Navegar para cima</string>
+    <string name="sesl_action_menu_overflow_description">Mais opções</string>
+    <string name="sesl_search_hint">Pesquisar...</string>
+    <string name="sesl_searchview_description_clear">Limpar consulta</string>
+    <string name="sesl_searchview_description_query">Consulta de pesquisa</string>
+    <string name="sesl_searchview_description_search">Pesquisar</string>
+    <string name="sesl_searchview_description_submit">Enviar consulta</string>
+    <string name="sesl_searchview_description_voice">Pesquisa por voz</string>
+    <string name="sesl_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="sesl_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="sesl_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="sesl_action_mode_done">Concluído</string>
+    <string name="sesl_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="sesl_activitychooserview_choose_application">Selecione um app</string>
+    <string name="sesl_capital_off">DESATIVAR</string>
+    <string name="sesl_capital_on">ATIVAR</string>
+    <string name="sesl_shareactionprovider_share_with">Compartilhar com</string>
+    <string name="sesl_toolbar_collapse_description">Recolher</string>
+    <string name="sesl_search_menu_title">Pesquisar</string>
+    <string name="sesl_shareactionprovider_share_with_application">Compartilhar com %s</string>
+</resources>

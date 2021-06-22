@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dragndroplist_drag_release">Mír scaoilte isteach i suí %d.</string>
+    <string name="dragndroplist_drag_start">Tarraingt míre tosaithe ag suí %d.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">Ní féidir mír i suí %d a tharraingt.</string>
+    <string name="sesl_action_bar_up_description">Déan nascleanúint suas</string>
+    <string name="sesl_action_menu_overflow_badge_description">Inneachar nua ar fáil</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">N</string>
+    <string name="sesl_action_menu_overflow_description">Roghanna eile</string>
+    <string name="sesl_color_picker_brightness">Gile</string>
+    <string name="sesl_color_picker_color_five">Dath a cúig</string>
+    <string name="sesl_color_picker_color_four">Dath a ceathair</string>
+    <string name="sesl_color_picker_color_one">Dath a haon</string>
+    <string name="sesl_color_picker_color_six">Dath a sé</string>
+    <string name="sesl_color_picker_color_three">Dath a trí</string>
+    <string name="sesl_color_picker_color_two">Dath a dó</string>
+    <string name="sesl_color_picker_color_wheel">Roth dathanna</string>
+    <string name="sesl_color_picker_current">Reatha</string>
+    <string name="sesl_color_picker_double_tap_to_select">Déthapáil le roghnú.</string>
+    <string name="sesl_color_picker_hue_and_saturation">Lí agus sáithiú</string>
+    <string name="sesl_color_picker_new">Nua</string>
+    <string name="sesl_color_picker_opacity">Teimhneacht</string>
+    <string name="sesl_color_picker_option">Rogha</string>
+    <string name="sesl_color_picker_slider">Barra sleamhnáin</string>
+    <string name="sesl_date_picker_day">Lá</string>
+    <string name="sesl_date_picker_decrement_month">An mhí roimhe</string>
+    <string name="sesl_date_picker_increment_month">An chéad mhí eile</string>
+    <string name="sesl_date_picker_month">Mí</string>
+    <string name="sesl_date_picker_switch_to_calendar_description">Déthapáil le haistriú chuig an amharc féilire.</string>
+    <string name="sesl_date_picker_switch_to_wheel_description">Déthapáil le haistriú chuig an rothamharc.</string>
+    <string name="sesl_date_picker_year">Bliain</string>
+    <string name="sesl_number_picker_invalid_value_entered">Iontráladh luach neamhbhailí.</string>
+    <string name="sesl_picker_done">Déanta</string>
+    <string name="sesl_preferencecategory_added_title">Ceanntásc</string>
+    <string name="sesl_search_hint">Cuardaigh</string>
+    <string name="sesl_searchview_description_clear">Glan an réimse cuardaigh</string>
+    <string name="sesl_searchview_description_query">Ceist chuardaigh</string>
+    <string name="sesl_searchview_description_search">Cuardaigh</string>
+    <string name="sesl_searchview_description_submit">Cuir ceist isteach</string>
+    <string name="sesl_searchview_description_voice">Cuardach gutha</string>
+    <string name="sesl_switch_off">As</string>
+    <string name="sesl_switch_on">Air</string>
+    <string name="sesl_time_picker_hour">Uair an chloig</string>
+    <string name="sesl_time_picker_minute">Nóiméad</string>
+    <string name="sesl_time_picker_set_title">Socraigh am</string>
+</resources>

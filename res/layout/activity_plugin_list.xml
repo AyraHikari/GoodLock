@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout android:id="@id/main_view" android:tag="layout/activity_plugin_list_0" android:background="@color/colorBg" android:paddingTop="24.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.design.widget.AppBarLayout android:theme="@style/Theme.AppCompat.DayNight" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/Widget.Design.AppBarLayout">
+        <android.support.design.widget.CollapsingToolbarLayout android:id="@id/collapsing_app_bar" android:layout_width="fill_parent" android:layout_height="fill_parent" app:title="Good Lock" app:subtitle="@string/redesign" app:layout_scrollFlags="exitUntilCollapsed|scroll|snap" style="@style/CollapsingToolbar">
+            <android.support.v7.widget.Toolbar android:theme="@style/Appbar.Overflow" android:layout_gravity="bottom" android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:title="Good Lock" app:layout_collapseMode="pin" />
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+    <android.support.v7.widget.RecyclerView android:id="@id/list_view" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="-1.0dip" android:layout_marginBottom="60.0dip" app:layout_behavior="@string/sesl_appbar_scrolling_view_behavior" />
+    <LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:id="@id/tabs" android:background="@color/colorBg" android:layout_width="fill_parent" android:layout_height="60.0dip">
+        <FrameLayout android:background="@drawable/shape_round_rect_transparent" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.5">
+            <FrameLayout android:orientation="horizontal" android:id="@id/unit_button" android:background="?android:selectableItemBackgroundBorderless" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <ImageView android:layout_gravity="center" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="12.0dip" android:src="@drawable/ic_icons_24_unit" />
+                    <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/colorTabSelectedText" android:layout_gravity="center" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/unit" android:fontFamily="Roboto-Bold" />
+                    <ImageView android:layout_gravity="center" android:tag="binding_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="12.0dip" android:src="@drawable/ic_icons_24_unit_dim" />
+                    <TextView android:textSize="14.0sp" android:textColor="@color/colorTabUnSelectedText" android:layout_gravity="center" android:tag="binding_5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/unit" android:fontFamily="Roboto-Regular" />
+                </LinearLayout>
+            </FrameLayout>
+        </FrameLayout>
+        <FrameLayout android:background="@drawable/shape_round_rect_transparent" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.5">
+            <FrameLayout android:orientation="horizontal" android:id="@id/family_button" android:background="?android:selectableItemBackgroundBorderless" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <ImageView android:layout_gravity="center" android:tag="binding_6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="12.0dip" android:src="@drawable/ic_icons_24_family" />
+                    <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/colorTabSelectedText" android:layout_gravity="center" android:tag="binding_7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/family" android:fontFamily="Roboto-Bold" />
+                    <ImageView android:layout_gravity="center" android:tag="binding_8" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="12.0dip" android:src="@drawable/ic_icons_24_family_dim" />
+                    <TextView android:textSize="14.0sp" android:textColor="@color/colorTabUnSelectedText" android:layout_gravity="center" android:tag="binding_9" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/family" android:fontFamily="Roboto-Regular" />
+                </LinearLayout>
+            </FrameLayout>
+        </FrameLayout>
+    </LinearLayout>
+    <FrameLayout android:tag="binding_10" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:gravity="center_horizontal" android:layout_gravity="center_vertical" android:tag="binding_11" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" />
+            <Button android:layout_gravity="center_horizontal" android:id="@id/no_network_retry" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/try_again" />
+        </LinearLayout>
+    </FrameLayout>
+    <FrameLayout android:id="@id/splashFrame" android:background="@color/colorBg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/intro_goodlock_top_margin">
+            <com.airbnb.lottie.LottieAnimationView android:layout_gravity="center" android:id="@id/animation_view" android:focusable="false" android:clickable="false" android:layout_width="186.0dip" android:layout_height="186.0dip" app:lottie_rawRes="@raw/intro" app:lottie_autoPlay="true" app:lottie_loop="false" />
+            <TextView android:textSize="38.0dip" android:textStyle="normal" android:textColor="@color/colorIntro" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_name" android:fontFamily="sans-serif" />
+        </LinearLayout>
+        <TextView android:textSize="16.0dip" android:textStyle="normal" android:textColor="@color/colorIntro" android:layout_gravity="bottom|center" android:id="@id/intro_redesign" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/intro_redesign_bottom_margin" android:text="@string/redesign" android:fontFamily="sans-serif" />
+    </FrameLayout>
+</android.support.design.widget.CoordinatorLayout>

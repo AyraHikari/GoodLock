@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dragndroplist_drag_release">آئٹم کو پوزیشن %d پر ڈالا گیا۔</string>
+    <string name="dragndroplist_drag_start">پوزیشن %d سے کارڈ کو گھسیٹنا شروع کیا۔</string>
+    <string name="dragndroplist_item_cannot_be_dragged">آئٹم پوزیشن %d کو گھسیٹا نہیں جاسکتا۔</string>
+    <string name="sesl_action_bar_up_description">اوپر نیویگیٹ کریں</string>
+    <string name="sesl_action_menu_overflow_badge_description">نیا مواد دستیاب ہے</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">N</string>
+    <string name="sesl_action_menu_overflow_description">مزيد اختیارات</string>
+    <string name="sesl_color_picker_brightness">اجلا پن</string>
+    <string name="sesl_color_picker_color_five">پانچواں رنگ</string>
+    <string name="sesl_color_picker_color_four">چوتھا رنگ</string>
+    <string name="sesl_color_picker_color_one">پہلا رنگ</string>
+    <string name="sesl_color_picker_color_six">چھٹا رنگ</string>
+    <string name="sesl_color_picker_color_three">تیسرا رنگ</string>
+    <string name="sesl_color_picker_color_two">دوسرا رنگ</string>
+    <string name="sesl_color_picker_color_wheel">وہیل رنگ</string>
+    <string name="sesl_color_picker_current">موجودہ</string>
+    <string name="sesl_color_picker_double_tap_to_select">منتخب کرنے کیلئے دوہری تھپکی دیں۔</string>
+    <string name="sesl_color_picker_hue_and_saturation">ہیو اور سیرابیت</string>
+    <string name="sesl_color_picker_new">نیا</string>
+    <string name="sesl_color_picker_opacity">دھندلا پن</string>
+    <string name="sesl_color_picker_option">اختیار</string>
+    <string name="sesl_color_picker_slider">سلائڈر</string>
+    <string name="sesl_date_picker_day">دن</string>
+    <string name="sesl_date_picker_decrement_month">پچھلے مہینے</string>
+    <string name="sesl_date_picker_increment_month">اگلے مہینے</string>
+    <string name="sesl_date_picker_month">مہینہ</string>
+    <string name="sesl_date_picker_switch_to_calendar_description">کیلنڈر منظر میں سوئچ کرنے کے لیے دوہری تھپکی دیں۔</string>
+    <string name="sesl_date_picker_switch_to_wheel_description">وہیل منظر میں سوئچ کرنے کے لیے دوہری تھپکی دیں۔</string>
+    <string name="sesl_date_picker_year">سال</string>
+    <string name="sesl_number_picker_invalid_value_entered">غیرمجاز قیمت داخل کی گئی</string>
+    <string name="sesl_picker_done">مکمل</string>
+    <string name="sesl_preferencecategory_added_title">ہیڈر</string>
+    <string name="sesl_search_hint">تلاش کریں</string>
+    <string name="sesl_searchview_description_clear">تلاش فیلڈ صاف کریں</string>
+    <string name="sesl_searchview_description_query">سوال تلاش کریں</string>
+    <string name="sesl_searchview_description_search">تلاش کریں</string>
+    <string name="sesl_searchview_description_submit">سوال ارسال کریں</string>
+    <string name="sesl_searchview_description_voice">آواز کے ذریعے تلاش</string>
+    <string name="sesl_switch_off">آف</string>
+    <string name="sesl_switch_on">آن</string>
+    <string name="sesl_time_picker_hour">گھنٹا</string>
+    <string name="sesl_time_picker_minute">منٹ</string>
+    <string name="sesl_time_picker_set_title">وقت متعین کریں</string>
+</resources>
